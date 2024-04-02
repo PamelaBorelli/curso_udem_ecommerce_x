@@ -20,3 +20,10 @@ _Melhoria2_
 * JavaScript
 * PHP
 
+###### Funcionalidades a desenvolver
+
+1. Área de membros
+2. Integação com outros pagamentos
+3. Sistema de bônus primeira compra
+
+
