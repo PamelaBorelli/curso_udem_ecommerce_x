@@ -31,10 +31,10 @@ _Melhoria2_
 
 ### Lista de tarefas a fazer
 
-- [ x ] Área de membros
+- [x] Área de membros
 - [ ] Integação com outros pagamentos
 - [ ] Sistema de bônus primeira compra
-- [ x ] CSS do rodapé
+- [x] CSS do rodapé
 
 
 ### Imagem local
