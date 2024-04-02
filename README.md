@@ -30,3 +30,6 @@ _Melhoria2_
 3. Sistema de bônus primeira compra
 
 
+### Imagem local
+
+![Logo do Python](img/python.jpg)
