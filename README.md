@@ -29,6 +29,13 @@ _Melhoria2_
 2. Integação com outros pagamentos
 3. Sistema de bônus primeira compra
 
+### Lista de tarefas a fazer
+
+- [ x ] Área de membros
+- [ ] Integação com outros pagamentos
+- [ ] Sistema de bônus primeira compra
+- [ x ] CSS do rodapé
+
 
 ### Imagem local
 
@@ -56,3 +63,7 @@ function soma(a,b){
     return a+b;
 }
 ```
+
+
+
+
