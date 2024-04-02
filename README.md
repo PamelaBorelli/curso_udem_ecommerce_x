@@ -5,3 +5,8 @@ Vamos criar um ecommerce para a empresa x
 ## Funcionalidades
 
 Checkout, tela de produto, caatálogo, home com banner
+
+###### Melhorias do projeto:
+
+Melhoria1
+Mehoria2
