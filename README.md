@@ -33,3 +33,7 @@ _Melhoria2_
 ### Imagem local
 
 ![Logo do Python](img/python.jpg)
+
+### Imagem externa
+
+![Logo PHP](https://pngimg.com/uploads/php/php_PNG35.png)
