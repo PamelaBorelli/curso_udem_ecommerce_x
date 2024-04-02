@@ -1,4 +1,3 @@
 # curso_udemy_ecommerce_x
-ecommerce_empreasa_x
 
-# teste
+ecommerce_empresa_x
