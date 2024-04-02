@@ -48,3 +48,11 @@ Contribuidor: https://www.google.com.br
 
 ###### imagem com link
 [![Logo do Python](img/python.jpg)](https://www.google.com.br)
+
+### Inserir código
+
+```javascript 
+function soma(a,b){
+    return a+b;
+}
+```
