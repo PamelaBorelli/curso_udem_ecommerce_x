@@ -37,3 +37,9 @@ _Melhoria2_
 ### Imagem externa
 
 ![Logo PHP](https://pngimg.com/uploads/php/php_PNG35.png)
+
+### Inserir links
+
+[Google](https://www.google.com.br)
+
+[https://www.google.com.br](https://www.google.com.br)
