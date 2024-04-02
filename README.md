@@ -45,3 +45,6 @@ _Melhoria2_
 [https://www.google.com.br](https://www.google.com.br)
 
 Contribuidor: https://www.google.com.br
+
+###### imagem com link
+[![Logo do Python](img/python.jpg)](https://www.google.com.br)
